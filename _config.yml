@@ -61,7 +61,7 @@ author:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "nsailer@berkeley.edu"
+      url: "< a href="mailto:nsailer@berkeley.edu">John< /a>"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
@@ -70,24 +70,12 @@ footer:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "nsailer@berkeley.edu"
+      url: "< a href="mailto:nsailer@berkeley.edu">John< /a>"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
 
 defaults:
-  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-   _pages
   - scope:
       path: "_pages"
       type: pages
