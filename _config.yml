@@ -61,7 +61,7 @@ author:
   links:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-o"
+      icon: "fab fa-fw fa-envelope"
       url: "nsailer@berkeley.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
