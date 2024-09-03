@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-o"
+      icon: "fa fa-envelope"
       url: "nsailer@berkeley.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
