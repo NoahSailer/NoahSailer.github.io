@@ -63,7 +63,6 @@ author:
     - label: "Email"
       icon: "fab fa-fw fa-envelope-o"
       url: "nsailer@berkeley.edu"
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
@@ -73,7 +72,6 @@ footer:
     - label: "Email"
       icon: "fab fa-fw fa-envelope-o"
       url: "nsailer@berkeley.edu"
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
