@@ -19,7 +19,7 @@ description: This website is under construction.
 #twitter_username: username
 github_username: NoahSailer
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -30,7 +30,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
+#include:
 #  - _pages
 
 # Exclude from processing.
@@ -59,9 +59,8 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Physics Ph.D. candidate, UC Berkeley"
   links:
-  links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "nsailer@berkeley.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -76,7 +75,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
 
-defaults:
+#defaults:
   # _posts
 #  - scope:
 #      path: ""
