@@ -78,7 +78,7 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
