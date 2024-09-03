@@ -4,7 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header:
 ---
+
 # About me
 
 This is a work in progress.
