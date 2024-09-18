@@ -68,12 +68,12 @@ author:
 
 footer:
   links:
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "noah"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/NoahSailer"
+#    - label: "Email"
+#      icon: "fa fa-envelope"
+#      url: "noah"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/NoahSailer"
 
 defaults:
   # _pages
