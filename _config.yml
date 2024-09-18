@@ -46,7 +46,7 @@ include:
 #   - vendor/ruby/
 
 atom_feed:
-  path: false
+  hide: true
 
 # Plugins (previously gems:)
 plugins:
@@ -70,7 +70,6 @@ author:
       url: "https://github.com/NoahSailer"
 
 footer:
-  show_feed: false
   links:
     - label: "Email"
       icon: "fa fa-envelope"
