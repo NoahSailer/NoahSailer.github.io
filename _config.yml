@@ -45,6 +45,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+atom_feed:
+  path: false
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
