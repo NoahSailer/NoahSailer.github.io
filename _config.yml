@@ -66,14 +66,15 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
 
-#footer:
-#  links:
-#    - label: "Email"
-#      icon: "fa fa-envelope"
-#      url: "noah"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/NoahSailer"
+footer:
+  show_feed: false
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "noah"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/NoahSailer"
 
 defaults:
   # _pages
