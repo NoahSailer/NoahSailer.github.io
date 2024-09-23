@@ -62,10 +62,9 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Physics Ph.D. candidate, UC Berkeley"
   links:
-    - title: "Location"
+    - title: "Oakland, CA"
       url: "#"
       icon: "fas fa-map-marker-alt"
-      text: "Oakland, CA"
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:nsailer@berkeley.edu"
