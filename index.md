@@ -3,6 +3,7 @@ title: 'About me'
 layout: single
 author_profile: true
 permalink: 
+classes: wide
 ---
 
 I am a physics Ph.D. candidate at the [University of California, Berkeley](https://www.berkeley.edu/) and an affiliate at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). My doctoral advisors are [Martin White](https://w.astro.berkeley.edu/~mwhite/) and [Simone Ferraro](https://sferraro.lbl.gov/).
