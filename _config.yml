@@ -62,21 +62,31 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Physics Ph.D. candidate, UC Berkeley"
   links:
+    - title: "Location"
+      url: "#"
+      icon: "fas fa-map-marker-alt"
+      text: "Oakland, CA"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "noah"
+      url: "mailto:nsailer@berkeley.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-5333-8983"
 
 footer:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "noah"
+      url: "mailto:nsailer@berkeley.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahSailer"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-5333-8983"
 
 defaults:
   # _pages
