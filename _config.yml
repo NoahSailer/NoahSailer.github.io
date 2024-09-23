@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Physics Ph.D. candidate, UC Berkeley"
   links:
-    - title: "Oakland, CA"
+    - label: "Oakland, CA"
       url: "#"
       icon: "fas fa-map-marker-alt"
     - label: "Email"
