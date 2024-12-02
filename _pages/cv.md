@@ -8,4 +8,4 @@ sitemap: false
 ---
 Last updated December 2 2024.
 
-<embed src="https://noahsailer.github.io/assets/images/nsailer_cv.pdf" type="application/pdf" />
+<embed src="https://noahsailer.github.io/assets/images/nsailer_c.pdf" type="application/pdf" />
