@@ -4,6 +4,7 @@ layout: single
 permalink: /cv/
 author_profile: true
 classes: wide
+sitemap: false
 ---
 
-<embed src="https://github.com/NoahSailer/NoahSailer.github.io/blob/master/assets/images/nsailer_cv.pdf" type="application/pdf" />
+<embed src="https://noahsailer.github.io/assets/images/nsailer_cv.pdf" type="application/pdf" />
