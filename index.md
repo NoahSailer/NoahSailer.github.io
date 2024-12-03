@@ -2,7 +2,7 @@
 title: 'About me'
 layout: single
 author_profile: true
-permalink: true
+permalink:
 classes: wide
 ---
 
