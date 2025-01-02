@@ -1,11 +1,11 @@
 body {
-  font-size: 16px; /* Adjust to your preferred size */
+  font-size: 500px; /* Adjust to your preferred size */
 }
 
 h1 {
-  font-size: 2em; /* Example for headings */
+  font-size: 20em; /* Example for headings */
 }
 
 p {
-  font-size: 1em; /* Example for paragraph text */
+  font-size: 10em; /* Example for paragraph text */
 }
