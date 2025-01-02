@@ -1,3 +1,11 @@
 body {
-  font-size: 5000px;
+  font-size: 16px; /* Adjust to your preferred size */
+}
+
+h1 {
+  font-size: 2em; /* Example for headings */
+}
+
+p {
+  font-size: 1em; /* Example for paragraph text */
 }
