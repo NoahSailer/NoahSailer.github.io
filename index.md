@@ -6,6 +6,8 @@ permalink:
 classes: wide
 ---
 
+Hello there! I'm a cosmologist who spends most of my time ~~being confused~~ thinking about how to robustly analyze large-scale structure data (CMB, galaxies, 21cm line, etc.) to better inform physical models of our universe's history. 
+
 I'm a physics Ph.D. candidate at <a href="https://www.berkeley.edu/" style="color: white; text-decoration: none">UC Berkeley</a> where I'm advised by <a href="https://w.astro.berkeley.edu/~mwhite/" style="color: white; text-decoration: none">Martin White</a> and <a href="https://sferraro.lbl.gov/" style="color: white; text-decoration: none">Simone Ferraro</a>. 
 I'm a member of the <a href="https://bccp.berkeley.edu/people/" style="color: white; text-decoration: none">Berkeley Center for Cosmological Physics</a> and was previously a <a href="https://science.osti.gov/wdts/scgsr" style="color: white; text-decoration: none">DOE SCGSR</a> fellow hosted at <a href="https://www.lbl.gov/" style="color: white; text-decoration: none">Lawrence Berkeley National Laboratory</a>.
 Before moving to the best coast I completed my bachelor's in physics and mathematics at <a href="https://www.cornell.edu/" style="color: white; text-decoration: none">Cornell University</a> in 2019, where I worked under <a href="https://www.classe.cornell.edu/~mdn49/" style="color: white; text-decoration: none">Michael Niemack</a> and <a href="https://evevavagiakis.com/" style="color: white; text-decoration: none">Eve Vavagiakis</a> as an undergraduate research assistant. 
