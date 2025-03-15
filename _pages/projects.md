@@ -16,10 +16,9 @@ sitemap: false
       {{ project.description }}
     </div>
   </div>
-  {% for paper in project.papers %}
-  <i>• {{paper}}</i>
-  {% endfor %}
-  <hr>
+  {% for paper in project.papers %}<!--
+  --><i>• {{paper}}</i><!--
+ -->{% endfor %}
   {% else %}
   <p>No projects found. Check your _data/projects.yml file.</p>
   {% endfor %}
