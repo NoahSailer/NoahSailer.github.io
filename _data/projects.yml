@@ -1,15 +1,3 @@
-- title: "Galaxy Formation in SIMBA"
-  description: "Studying the large-scale structure of galaxies using SIMBA simulations."
-  image: "/assets/images/simba_galaxy.png"
-
-- title: "Black Hole Feedback"
-  description: "Exploring how AGN feedback influences galaxy evolution."
-  image: "/assets/images/agn_feedback.png"
-
-- title: "Star Formation in Dwarf Galaxies"
-  description: "Investigating star formation rates in low-mass galaxies."
-  image: "/assets/images/dwarf_star_formation.png"
-
-- title: "Cosmic Web Analysis"
-  description: "Mapping the cosmic web to understand galaxy clustering."
-  image: "/assets/images/cosmic_web.png"
+- title: "Evolution of the large-scale distribution of dark & luminous matter over the last 7 billion years."
+  description: 'We jointly analyze the gravitational lensing of the Cosmic Microwave Background (CMB) data with galaxies from the Dark Energy Spectroscopic Instrument (<a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a>) to measure the large-scale evolution of the matter density, where by "large" we mean roughly 1 to 300 million light-years. Read more about it from the  <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>.'
+  image: "/assets/images/simo_me_boryana.jpg"
