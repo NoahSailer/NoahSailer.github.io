@@ -1,0 +1,15 @@
+- title: "Galaxy Formation in SIMBA"
+  description: "Studying the large-scale structure of galaxies using SIMBA simulations."
+  image: "/assets/images/simba_galaxy.png"
+
+- title: "Black Hole Feedback"
+  description: "Exploring how AGN feedback influences galaxy evolution."
+  image: "/assets/images/agn_feedback.png"
+
+- title: "Star Formation in Dwarf Galaxies"
+  description: "Investigating star formation rates in low-mass galaxies."
+  image: "/assets/images/dwarf_star_formation.png"
+
+- title: "Cosmic Web Analysis"
+  description: "Mapping the cosmic web to understand galaxy clustering."
+  image: "/assets/images/cosmic_web.png"
