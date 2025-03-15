@@ -14,7 +14,6 @@ sitemap: false
     <div class="project-info">
       <h3>{{ project.title }}</h3>
       {{ project.description }}
-      <b> Relevant papers </b>
       {% for paper in project.papers %}
       <ul>
           <li>{{paper}}</li>
