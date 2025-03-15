@@ -13,10 +13,10 @@ sitemap: false
     <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image" style="border: 2px solid gray; border-radius: 20px;">
     <div class="project-info">
       <h3>{{ project.title }}</h3>
-      <p>{{ project.description }}</p>
-      <h4>{{ Relevant papers }}</h4>
+      {{ project.description }}
+      <h5> Relevant papers </h5>
       {% for paper in project.papers %}
-      - <i>{{paper}}</i>
+      - <i>{{paper}}</i><br>
       {% endfor %}
     </div>
   </div>
