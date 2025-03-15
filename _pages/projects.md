@@ -14,11 +14,11 @@ sitemap: false
     <div class="project-info">
       <h3>{{ project.title }}</h3>
       {{ project.description }}
-      <h5> Relevant papers </h5>
+      <b> Relevant papers </b>
       {% for paper in project.papers %}
-      <ol>
+      <ul>
           <li>{{paper}}</li>
-      </ol>
+      </ul>
       {% endfor %}
     </div>
   </div>
