@@ -14,13 +14,13 @@ sitemap: false
     <div class="project-info">
       <h3>{{ project.title }}</h3>
       {{ project.description }}
-      {% for paper in project.papers %}
-      <ul>
-          <li>{{paper}}</li>
-      </ul>
-      {% endfor %}
     </div>
   </div>
+  {% for paper in project.papers %}
+  <ul>
+      <li>{{paper}}</li>
+  </ul>
+  {% endfor %}
   <hr>
   {% else %}
   <p>No projects found. Check your _data/projects.yml file.</p>
