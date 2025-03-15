@@ -18,7 +18,7 @@ sitemap: false
   </div>
   <h4>{{ Relevant papers }}</h4>
   {% for paper in project.papers %}
-  <p>{{- paper}}</p>
+  <i>{{paper}}</i>
   {% endfor %}
   {% else %}
   <p>No projects found. Check your _data/projects.yml file.</p>
@@ -28,6 +28,6 @@ sitemap: false
 <style>
 .projects-list { display: flex; flex-direction: column; gap: 20px; }
 .project-item { display: flex; align-items: center; gap: 20px; }
-.project-image { width: 150px; height: auto; }
+.project-image { width: 200px; height: auto; }
 .project-info { flex: 1; }
 </style>
