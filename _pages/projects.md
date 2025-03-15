@@ -27,4 +27,3 @@ sitemap: false
 .project-image { width: 150px; height: auto; }
 .project-info { flex: 1; }
 </style>
-{% endfor %}
