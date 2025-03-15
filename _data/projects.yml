@@ -8,8 +8,8 @@
      and from the papers below:
   image: "/assets/images/cmb-lens_x_galaxies.png"
   papers: 
-      - <a href="https://arxiv.org/abs/2407.04607" style="color: white; text-decoration: wavy underline gray">Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6</a>
-      - <a href="https://arxiv.org/abs/2407.04607" style="color: white; text-decoration: wavy underline gray">The Atacama Cosmology Telescope DR6 and DESI: Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies</a>
+      - "<a href="https://arxiv.org/abs/2407.04607" style="color: white; text-decoration: wavy underline gray">Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6</a>"
+      - "<a href="https://arxiv.org/abs/2407.04607" style="color: white; text-decoration: wavy underline gray">The Atacama Cosmology Telescope DR6 and DESI: Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies</a>"
 - title: "Cleaning up CMB lensing measurements"
   description: "We improve our ability to remove biases in CMB lensing measurements from extragalactic foregrounds. These methods were adopted in the latest ACT DR6 lensing analysis."
   image: "/assets/images/lens_cleaner.png"
