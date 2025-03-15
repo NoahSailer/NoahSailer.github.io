@@ -1,5 +1,10 @@
 - title: "Growth of large structures over the last 7 billion years"
-  description: 'We jointly analyze CMB lensing alongside <a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a> galaxies to measure the evolution of the universe''s large-scale matter density, where by "large" we mean roughly 1 to 300 million light-years. Read more about it from the  <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>.'
+  description: >
+     We jointly analyze CMB lensing alongside 
+     <a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a> 
+     galaxies to measure the evolution of the universe''s large-scale matter density, where by "large" 
+     we mean roughly 1 to 300 million light-years. Read more about it from the  
+     <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>.
   image: "/assets/images/cmb-lens_x_galaxies.png"
   papers: ["paper 1","paper 2"] 
 - title: "Cleaning up CMB lensing measurements"
