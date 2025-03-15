@@ -21,6 +21,7 @@ sitemap: false
       {% endfor %}
     </div>
   </div>
+  <hr>
   {% else %}
   <p>No projects found. Check your _data/projects.yml file.</p>
   {% endfor %}
