@@ -18,7 +18,6 @@ sitemap: false
   </div>
   {% for paper in project.papers %}
   <i>• {{paper}}</i>
-  
   {% endfor %}
   <hr>
   {% else %}
