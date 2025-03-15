@@ -7,8 +7,12 @@
      <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>
      and from the papers below:
   image: "/assets/images/cmb-lens_x_galaxies.png"
-  papers: ["<a href='https://arxiv.org/abs/2407.04607' style='color: white; text-decoration: none'>Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6</a>","<a href='https://arxiv.org/abs/2407.04607' style='color: white; text-decoration: none'>The Atacama Cosmology Telescope DR6 and DESI: Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies</a>"]
+  papers: ["<small><a href='https://arxiv.org/abs/2407.04607' style='color: white; text-decoration: none'>Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6</a></small>","<small><a href='https://arxiv.org/abs/2407.04607' style='color: white; text-decoration: none'>The Atacama Cosmology Telescope DR6 and DESI: Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies</a></small>"]
 - title: "Cleaning up CMB lensing measurements"
   description: "We improve our ability to remove biases in CMB lensing measurements from extragalactic foregrounds. These methods were adopted in the latest ACT DR6 lensing analysis."
   image: "/assets/images/lens_cleaner.png"
-  papers: ["paper 1","paper 2"] 
+  papers:
+    - "<small><a href='https://arxiv.org/abs/2211.03786' style='color: white; text-decoration: none'> Foreground-immune CMB lensing reconstruction with polarization </a></small>" 
+    - "<small><a href='https://arxiv.org/abs/2111.00462' style='color: white; text-decoration: none'> Optimizing foreground mitigation for CMB lensing with combined multifrequency and geometric methods </a></small>"
+    - "<small><a href='https://arxiv.org/abs/2108.01663' style='color: white; text-decoration: none'> Optimal multifrequency weighting for CMB lensing </a></small>"
+    - "<small><a href='https://arxiv.org/abs/2007.04325' style='color: white; text-decoration: none'> Lower bias, lower noise CMB lensing with foreground-hardened estimators </a></small>" 
