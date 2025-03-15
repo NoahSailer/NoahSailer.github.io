@@ -16,7 +16,9 @@ sitemap: false
       {{ project.description }}
       <h5> Relevant papers </h5>
       {% for paper in project.papers %}
-      - <i>{{paper}}</i><br>
+      <ol>
+          <li>{{paper}}</li>
+      </ol>
       {% endfor %}
     </div>
   </div>
