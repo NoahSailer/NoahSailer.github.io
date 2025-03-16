@@ -23,6 +23,16 @@
     - [2203.07506,"Cosmology and Fundamental Physics from the three-dimensional Large Scale Structure"]
     - [2106.09713,"Cosmology at high redshift -- a probe of fundamental physics"]
 
+- title: Perturbative 21cm cosmology
+  image: /assets/images/21cm.png
+  description: >
+     Hydrogen's hyperfine transition offers a promising path forward to map out the matter density before and after the birth of the first stars.
+     The papers below present theoretical methods and forecasts for the use of hydrogen as a probe of cosmology and reionization.
+  papers:
+    - [2406.13079,"Predicting the 21 cm field with a Hybrid Effective Field Theory approach"]
+    - [2205.11504,"Optical depth to reionization from perturbative 21cm clustering"]
+    - [2106.09713,"Cosmology at high redshift -- a probe of fundamental physics"]
+
 - title: Cleaning up CMB lensing measurements
   image: /assets/images/lens_cleaner.png
   description: >
