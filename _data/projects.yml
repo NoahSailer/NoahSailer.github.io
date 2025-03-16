@@ -11,6 +11,18 @@
     - [2407.04607,"Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6"]
     - [2407.04606,"The Atacama Cosmology Telescope DR6 and DESI':' Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies"]
 
+- title: A next-generation spectroscopic galaxy survey
+  image: /assets/images/SpecS5logo.001.jpeg
+  description: >
+     The "Stage-5" spectroscopic experiment is a proposed successor to
+     <a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a>
+     that would signficantly improve our understanding of the early universe through measuring spectra of high-redshift galaxies.
+     I've played a leading role in scoping out and developing the science case for a Stage-5 survey. 
+  papers:
+    - [2503.07923,"The Spectroscopic Stage-5 Experiment"]
+    - [2203.07506,"Cosmology and Fundamental Physics from the three-dimensional Large Scale Structure"]
+    - [2106.09713,"Cosmology at high redshift -- a probe of fundamental physics"]
+
 - title: Cleaning up CMB lensing measurements
   image: /assets/images/lens_cleaner.png
   description: >
