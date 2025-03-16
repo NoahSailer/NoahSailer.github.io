@@ -31,6 +31,6 @@ sitemap: false
 <style>
 .projects-list { display: flex; flex-direction: column; gap: 20px; }
 .project-item { display: flex; align-items: flex-start; gap: 20px; }
-.project-image { width: 200px; height: auto; }
-.project-info { flex: 1; }
+.project-image { width: 200px; height: auto; bject-fit: cover; display: block; }
+.project-info { flex: 1; display: flex; flex-direction: column; justify-content: flex-start; }
 </style>
