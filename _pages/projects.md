@@ -19,7 +19,7 @@ sitemap: false
   <div>
     <b>Related papers:</b><br><!---
  -->{% for paper in project.papers %}<!--
-    -->• <small><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none"><i>{{paper[1]}}</i></small><br><!--
+    -->• <small><i><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none">{{paper[1]}}</a></i></small><br><!--
  -->{% endfor %}
   </div>
   <hr>
