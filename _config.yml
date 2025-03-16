@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Noah Sailer"
   avatar : "/assets/images/me.jpg"
-  bio    : "Physics Ph.D. candidate, UC Berkeley"
+  bio    : "Physics Ph.D. candidate,\nUC Berkeley"
   links:
     - label: "Oakland, CA"
       url: "#"
