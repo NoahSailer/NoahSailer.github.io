@@ -31,6 +31,6 @@ sitemap: false
 <style>
 .projects-list { display: flex; flex-direction: column; gap: 20px; }
 .project-item { display: flex; align-items: flex-start; gap: 20px; padding: 0; margin: 0;  }
-.project-image { width: 200px; height: auto; bject-fit: cover; display: block; padding: 0; margin: 0; align-self: flex-start; }
-.project-info { flex: 1; justify-content: flex-start; padding: 0; margin: 0; align-self: flex-start; }
+.project-image { width: 200px; height: auto; bject-fit: cover; display: block; padding: 0; margin: 0; align-self: flex-start; border: 4px solid blue; }
+.project-info { flex: 1; justify-content: flex-start; padding: 0; margin: 0; align-self: flex-start; border: 4px solid red; }
 </style>
