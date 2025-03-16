@@ -7,6 +7,11 @@ classes: wide
 sitemap: false
 ---
 
+h3 {
+  padding: 0px;
+  margin: 0px;
+}
+
 <div class="projects-list">
   {% for project in site.data.projects %}
   <div class="project-item">
