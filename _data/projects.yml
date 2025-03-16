@@ -1,15 +1,15 @@
 - title: Growth of large scale structures over the last 7 billion years
   image: /assets/images/cmb-lens_x_galaxies.png
   description: >
-     We jointly analyze CMB lensing alongside 
+     We jointly analyze CMB lensing and 
      <a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a> 
-     galaxies to measure the evolution of the universe's large-scale matter density, where by "large" 
-     we mean roughly 1 to 300 million light-years. Read more about it from the  
+     galaxies to measure the evolution of the universe's large scale matter density, where by "large" 
+     we mean roughly 1 million to 300 million light-years. Read more about it from the  
      <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>
      or from the papers below.
   papers: 
     - [2407.04607,"Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6"]
-    - [2407.04607,"The Atacama Cosmology Telescope DR6 and DESI':' Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies"]
+    - [2407.04606,"The Atacama Cosmology Telescope DR6 and DESI':' Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies"]
 
 - title: Cleaning up CMB lensing measurements
   image: /assets/images/lens_cleaner.png
