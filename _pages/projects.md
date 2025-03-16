@@ -10,9 +10,9 @@ sitemap: false
 <div class="projects-list">
   {% for project in site.data.projects %}
   <div class="project-item">
-    <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image" style="border: 3px solid #1A1D24; border-radius: 20px;">
+    <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image" style="border: 3px solid #99d5ff; border-radius: 18px;">
     <div class="project-info">
-      <h3>{{ project.title }}</h3>
+      <h3 margin-top=0>{{ project.title }}</h3>
       {{ project.description }}
     </div>
   </div>
