@@ -1,5 +1,5 @@
 ---
-title: 'Research Projects'
+title: 'Projects'
 layout: single
 permalink: /projects/
 author_profile: true
@@ -17,8 +17,9 @@ sitemap: false
     </div>
   </div>
   <div>
-    {% for paper in project.papers %}<!--
-    --><i>• {{paper}}</i><br><!--
+    <b>Related papers:</b><br><!---
+ -->{% for paper in project.papers %}<!--
+    -->• <small><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none"><i>{{paper[1]}}</i></small><br><!--
  -->{% endfor %}
   </div>
   <hr>
