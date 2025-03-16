@@ -30,7 +30,7 @@ sitemap: false
 
 <style>
 .projects-list { display: flex; flex-direction: column; gap: 20px; }
-.project-item { display: flex; align-items: center; gap: 20px; }
+.project-item { display: flex; align-items: flex-start; gap: 20px; }
 .project-image { width: 200px; height: auto; }
 .project-info { flex: 1; }
 </style>
