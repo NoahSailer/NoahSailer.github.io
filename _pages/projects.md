@@ -6,7 +6,8 @@ author_profile: true
 classes: wide
 sitemap: false
 ---
-
+<br>
+<hr>
 <div class="projects-list">
   {% for project in site.data.projects %}
   <div class="project-item">
