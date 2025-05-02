@@ -1,3 +1,14 @@
+- title: Dynamical dark energy or systematics?
+  image: /assets/images/disputauble.png
+  description: >
+     Recent BAO measurements from DESI show mild (2.2σ) tension with CMB data when analyzed assuming our "standard model 
+     of cosmology" (ΛCDM), suggesting a ≃3σ preference for "new physics" (e.g. evolving dark energy or the sum of the 
+     neutrino masses being smaller than the neutrino oscillation lower bound). The significance of this preference 
+     is sensitive to the optical depth to reionization (τ) and can alternatively be phrased as a ≃3-5σ "τ tension."
+     
+  papers: 
+    - [2504.16932,"Dispuτable: the high cost of a low optical depth"]
+
 - title: Growth of large scale structures over the last 7 billion years
   image: /assets/images/sig8z.png
   description: >
