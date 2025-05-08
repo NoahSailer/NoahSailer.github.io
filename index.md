@@ -5,6 +5,32 @@ author_profile: true
 permalink:
 classes: wide
 ---
+<!-- Structured data for Google Knowledge Panel -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Noah Sailer",
+  "alternateName": "Noah Sailer",
+  "url": "https://noahsailer.github.io/",
+  "image": "https://noahsailer.github.io/assets/images/me.jpg",
+  "jobTitle": "Ph.D. Candidate in Cosmology",
+  "affiliation": {
+    "@type": "EducationalOrganization",
+    "name": "University of California, Berkeley"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "University of California, Berkeley"
+  },
+  "sameAs": [
+    "https://scholar.google.com/citations?user=61m1n1EAAAAJ",
+    "https://www.linkedin.com/in/noah-sailer-babbab317",
+    "https://github.com/NoahSailer",
+    "https://physics.berkeley.edu/people/graduate-student/noah-sailer"
+  ]
+}
+</script>
 \
 Hello there! I'm a cosmologist who spends most of my time ~~being confused~~ thinking about how to robustly analyze large-scale structure data (CMB, galaxies, 21cm line, etc.) to better inform physical models of our universe's history. 
 
