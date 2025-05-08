@@ -6,33 +6,6 @@ permalink:
 classes: wide
 ---
 
-<!-- Structured data for Google Knowledge Panel -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Noah Sailer",
-  "alternateName": "Noah Sailer",
-  "url": "https://noahsailer.github.io/",
-  "image": "https://noahsailer.github.io/assets/images/me.jpg",
-  "jobTitle": "Ph.D. Candidate in Cosmology",
-  "affiliation": {
-    "@type": "EducationalOrganization",
-    "name": "University of California, Berkeley"
-  },
-  "alumniOf": {
-    "@type": "EducationalOrganization",
-    "name": "University of California, Berkeley"
-  },
-  "sameAs": [
-    "https://scholar.google.com/citations?user=61m1n1EAAAAJ",
-    "https://www.linkedin.com/in/noah-sailer-babbab317",
-    "https://github.com/NoahSailer",
-    "https://physics.berkeley.edu/people/graduate-student/noah-sailer"
-  ]
-}
-</script>
-
 Hello there! I'm a cosmologist who spends most of my time ~~being confused~~ thinking about how to robustly analyze large-scale structure data (CMB, galaxies, 21cm line, etc.) to better inform physical models of our universe's history. 
 
 I'm a physics Ph.D. candidate at <a href="https://www.berkeley.edu/" style="color: white; text-decoration: wavy underline #1A1D24">UC Berkeley</a> where I'm advised by <a href="https://w.astro.berkeley.edu/~mwhite/" style="color: white; text-decoration: wavy underline #1A1D24">Martin White</a> and <a href="https://sferraro.lbl.gov/" style="color: white; text-decoration: wavy underline #1A1D24">Simone Ferraro</a>. 
