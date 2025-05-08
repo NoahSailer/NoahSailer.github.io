@@ -5,6 +5,7 @@ author_profile: true
 permalink:
 classes: wide
 ---
+
 <!-- Structured data for Google Knowledge Panel -->
 <script type="application/ld+json">
 {
