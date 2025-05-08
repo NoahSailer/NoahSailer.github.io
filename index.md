@@ -31,7 +31,7 @@ classes: wide
   ]
 }
 </script>
-\
+
 Hello there! I'm a cosmologist who spends most of my time ~~being confused~~ thinking about how to robustly analyze large-scale structure data (CMB, galaxies, 21cm line, etc.) to better inform physical models of our universe's history. 
 
 I'm a physics Ph.D. candidate at <a href="https://www.berkeley.edu/" style="color: white; text-decoration: wavy underline #1A1D24">UC Berkeley</a> where I'm advised by <a href="https://w.astro.berkeley.edu/~mwhite/" style="color: white; text-decoration: wavy underline #1A1D24">Martin White</a> and <a href="https://sferraro.lbl.gov/" style="color: white; text-decoration: wavy underline #1A1D24">Simone Ferraro</a>. 
