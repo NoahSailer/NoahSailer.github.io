@@ -9,11 +9,31 @@
 {%- comment %} https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present {% endcomment -%}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  {% if site.enable_copy_code_button -%}
-    window.enable_copy_code_button = true;
-  {%- endif %}
+<!-- Structured data for Google Knowledge Panel -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Noah Sailer",
+  "alternateName": "Noah Sailer",
+  "url": "https://noahsailer.github.io/",
+  "image": "https://noahsailer.github.io/assets/images/me.jpg",
+  "jobTitle": "Ph.D. Candidate in Cosmology",
+  "affiliation": {
+    "@type": "EducationalOrganization",
+    "name": "University of California, Berkeley"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "University of California, Berkeley"
+  },
+  "sameAs": [
+    "https://scholar.google.com/citations?user=61m1n1EAAAAJ",
+    "https://www.linkedin.com/in/noah-sailer-babbab317",
+    "https://github.com/NoahSailer",
+    "https://physics.berkeley.edu/people/graduate-student/noah-sailer"
+  ]
+}
 </script>
 
 <!-- For all browsers -->
