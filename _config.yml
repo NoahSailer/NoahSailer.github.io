@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Noah Sailer
 email: 
-description: This website is under construction.
+description: My website.
 #twitter_username: username
 github_username: NoahSailer
 minimal_mistakes_skin: dark
