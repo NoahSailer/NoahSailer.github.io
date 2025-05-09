@@ -3,7 +3,7 @@ title: 'About me'
 layout: single
 author_profile: true
 permalink:
-classes: wide
+classes: 
 ---
 
 Hello there! I'm a cosmologist who spends most of my time ~~being confused~~ thinking about how to robustly analyze large-scale structure data (CMB, galaxies, 21cm line, etc.) to better inform physical models of our universe's history. 
