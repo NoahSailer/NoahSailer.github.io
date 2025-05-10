@@ -21,7 +21,7 @@ sitemap: false
  --><b>Related papers:</b><!---
  --><ul style="list-style-type: disc; padding-left: 20px; margin-top: 0;"><!---
    -->{% for paper in project.papers %}
-      <li style="margin-bottom: 5px;">
+      <li style="margin-bottom: 5px; line-height: 1.1;">
         <small><i><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none;">{{paper[1]}}</a></i></small>
       </li>
       {% endfor %}
