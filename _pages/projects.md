@@ -17,8 +17,8 @@ sitemap: false
     </div>
   </div>
   <div>
-    {{ project.description }}
-    <b>Related papers:</b><br><!---
+    {{ project.description }}<br><!---
+ --><b>Related papers:</b><br><!---
  -->{% for paper in project.papers %}<!--
     -->• <small><i><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none">{{paper[1]}}</a></i></small><br><!--
  -->{% endfor %}
