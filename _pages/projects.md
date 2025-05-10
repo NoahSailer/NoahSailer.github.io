@@ -3,7 +3,7 @@ title: 'Projects'
 layout: single
 permalink: /projects/
 author_profile: true
-classes: wide
+classes:
 sitemap: false
 ---
 <br>
@@ -13,11 +13,11 @@ sitemap: false
   <div class="project-item">
     <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image" style="border-radius: 18px;">
     <div class="project-info"><!--
-   --><h3 style="margin-top: 0; padding-top: 0;">{{ project.title }}</h3><!--
-   -->{{ project.description }}
+   --><h3 style="margin-top: 0; padding-top: 0; text-align: center;">{{ project.title }}</h3>
     </div>
   </div>
   <div>
+    {{ project.description }}
     <b>Related papers:</b><br><!---
  -->{% for paper in project.papers %}<!--
     -->• <small><i><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none">{{paper[1]}}</a></i></small><br><!--
