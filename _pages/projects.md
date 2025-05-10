@@ -17,8 +17,8 @@ sitemap: false
     </div>
   </div>
   <div>
-    {{ project.description }}<br><!---
- --><b>Related papers:</b><br><!---
+    {{ project.description }}<br><br><!---
+ --><b>Related papers:</b><!---
  --><ul style="list-style-type: disc; padding-left: 20px;">
       {% for paper in project.papers %}
       <li style="margin-bottom: 5px;">
