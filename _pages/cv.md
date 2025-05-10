@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 sitemap: false
 ---
-Last updated March 15, 2025.
 
-<embed src="https://noahsailer.github.io/assets/images/nsailer_cv.pdf" type="application/pdf" width=85 height=110/>
+<iframe src="https://docs.google.com/gview?url=https://noahsailer.github.io/assets/images/nsailer_cv.pdf&embedded=true" 
+        style="width:100%; height:600px;" frameborder="0">
+</iframe>
