@@ -19,9 +19,13 @@ sitemap: false
   <div>
     {{ project.description }}<br><!---
  --><b>Related papers:</b><br><!---
- -->{% for paper in project.papers %}<!--
-    -->• <small><i><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none">{{paper[1]}}</a></i></small><br><!--
- -->{% endfor %}
+ --><ul style="list-style-type: disc; padding-left: 20px;">
+      {% for paper in project.papers %}
+      <li style="margin-bottom: 5px;">
+        <small><i><a href="https://arxiv.org/abs/{{paper[0]}}" style="color: white; text-decoration: none;">{{paper[1]}}</a></i></small>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
   <hr>
   {% else %}
