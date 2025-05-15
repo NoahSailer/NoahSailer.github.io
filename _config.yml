@@ -20,6 +20,7 @@ description: My website.
 github_username: NoahSailer
 minimal_mistakes_skin: dark
 search: false
+logo: /assets/images/me.jpg
 
 # Build settings
 markdown: kramdown
