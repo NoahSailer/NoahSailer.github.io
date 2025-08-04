@@ -1,23 +1,35 @@
+- title: Where's the matter?
+  image: /assets/images/profile_bias.png
+  description: >
+     The impact of non-gravitational physics on the "small-scale" matter distribution is a key source of systematic 
+     uncertainty when extracting cosmological information from high-resolution surveys. These works explore data-driven 
+     approaches to better understand the highly-energetic processes responsible for the "redistribution" of matter 
+     surrounding galaxies.
+  papers:
+    - [2507.14136,"Missing baryons recovered: a measurement of the gas fraction in galaxies and groups with the kinematic Sunyaev-Zel'dovich effect and CMB lensing"]
+    - [2506.17379,"Mapping the gas density with the kinematic Sunyaev-Zel'dovich and patchy screening effects: a self-consistent comparison"]
+    - [2506.17217,"Bias hardened estimators of patchy screening profiles"]
+
 - title: Evolving dark energy or ...?
   image: /assets/images/disputauble.png
   description: >
      Recent BAO measurements from DESI show mild (2.2σ) tension with CMB data when analyzed assuming our "standard model 
      of cosmology" (ΛCDM), suggesting a ≃3σ preference for evolving dark energy. The significance of this preference 
      is sensitive to the optical depth to reionization (τ) and can alternatively be phrased as a ≃3-5σ "τ tension."
-     
   papers: 
     - [2504.16932,"Dispuτable: the high cost of a low optical depth"]
 
-- title: Growth of large scale structures over the last 7 billion years
+- title: Growth of large-scale structures over the last 7 billion years
   image: /assets/images/sig8z.png
   description: >
      We jointly analyze CMB lensing and 
-     <a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a> 
+     <a href="https://www.desi.lbl.gov/" style="color: #cbe0f5; text-decoration: none">DESI</a> 
      galaxies to measure the evolution of the universe's large scale matter density, where by "large" 
      we mean roughly 1 million to 300 million light-years. Read more about it from the  
-     <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>
+     <a href="https://physicalsciences.lbl.gov/2025/02/11/new-analyses-shine-light-on-dark-matter-and-intergalactic-mass-in-unprecedented-detail/" style="color: #cbe0f5; text-decoration: none">LBNL news center</a>
      or from the papers below.
   papers: 
+    - [2506.22416,"Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography"]
     - [2503.24385,"Evolution of structure growth during dark energy domination: insights from the cross-correlation of DESI galaxies with CMB lensing and galaxy magnification"]
     - [2407.04607,"Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6"]
     - [2407.04606,"The Atacama Cosmology Telescope DR6 and DESI: Structure formation over cosmic time with a measurement of the cross-correlation of CMB Lensing and Luminous Red Galaxies"]
@@ -25,11 +37,11 @@
 - title: A next-generation spectroscopic galaxy survey
   image: /assets/images/SpecS5logo.001.jpeg
   description: >
-     The <a href="https://spec-s5.org/" style="color: white; text-decoration: wavy underline gray"> "Stage-5" spectroscopic experiment</a> 
-     is a proposed successor to <a href="https://www.desi.lbl.gov/" style="color: white; text-decoration: wavy underline gray">DESI</a>
-     that would signficantly improve our understanding of the early universe through measuring spectra of high-redshift galaxies.
+     The <a href="https://spec-s5.org/" style="color: #cbe0f5; text-decoration: none"> "Stage-5" spectroscopic experiment</a> 
+     is a proposed successor to <a href="https://www.desi.lbl.gov/" style="color: #cbe0f5; text-decoration: none">DESI</a>
+     that would significantly improve our understanding of the early universe through measuring spectra of high-redshift galaxies.
      I've played a significant role in developing the science case for a Stage-5 survey. Read more about it from the  
-     <a href="https://physicalsciences.lbl.gov/2024/06/07/berkeley-lab-hosts-workshop-to-explore-opportunities-for-next-generation-spectroscopic-surveys/" style="color: white; text-decoration: wavy underline gray">LBNL news center</a>
+     <a href="https://physicalsciences.lbl.gov/2024/06/07/berkeley-lab-hosts-workshop-to-explore-opportunities-for-next-generation-spectroscopic-surveys/" style="color: #cbe0f5; text-decoration: none">LBNL news center</a>
      or from the papers below.
   papers:
     - [2503.07923,"The Spectroscopic Stage-5 Experiment"]
@@ -51,7 +63,7 @@
   description: >
      Improving our ability to remove biases in CMB lensing measurements from extragalactic 
      foregrounds. These methods were adopted in the latest
-     <a href="https://arxiv.org/abs/2304.05202" style="color: white; text-decoration: wavy underline gray">ACT DR6 lensing analysis</a>.
+     <a href="https://arxiv.org/abs/2304.05202" style="color: #cbe0f5; text-decoration: none">ACT DR6 lensing analysis</a>.
   papers:
     - [2211.03786,"Foreground-immune CMB lensing reconstruction with polarization"]
     - [2111.00462,"Optimizing foreground mitigation for CMB lensing with combined multifrequency and geometric methods"]
