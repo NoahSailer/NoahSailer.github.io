@@ -20,4 +20,4 @@ In my free time...
 
 <a href="#" class="popup-trigger" data-target="modal-physics">Physics</a>
 
-{% raw %}{% include modal.html %}{% endraw %}
+{% include modal.html %}
