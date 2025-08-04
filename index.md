@@ -15,3 +15,5 @@ Before moving to the best coast I studied physics and math at <a href="https://w
 During the summer of 2018 I had a brief stint as a <a href="https://science.osti.gov/wdts/suli" style="color: #cbe0f5; text-decoration: none">DOE SULI</a> intern at <a href="https://www6.slac.stanford.edu/" style="color: #cbe0f5; text-decoration: none">SLAC National Accelerator Laboratory</a> under the guidance of <a href="https://profiles.stanford.edu/hirohisa-tanaka" style="color: #cbe0f5; text-decoration: none">Hirohisa Tanaka</a>. 
 
 In my free time, I enjoy playing in the ocean, lounging with <a href="#" class="popup-trigger" data-target="modal-mrmay">Mr. May</a>, <a href="#" class="popup-trigger" data-target="modal-backpacking">backpacking</a>, consuming music of all form(at)s, and scouring the streets of San Francisco for the perfect <a href="#" class="popup-trigger" data-target="modal-sammy">breakfast sandwich</a>.
+
+{% include modal.html %}
