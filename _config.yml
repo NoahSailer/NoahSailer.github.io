@@ -31,6 +31,8 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 custom_css:
   - /assets/css/custom.css
+custom_js:
+  - /assets/js/custom.js
 
 include:
   - _pages
@@ -63,14 +65,14 @@ plugins:
 author:
   name   : "Noah Sailer"
   avatar : "/assets/images/me.jpg"
-  bio    : "Physics Ph.D. candidate,\nUC Berkeley"
+  bio    : "Porat Fellow, Stanford University"
   links:
-    - label: "Oakland, CA"
+    - label: "San Fransisco, CA"
       url: "#"
       icon: "fas fa-map-marker-alt"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:nsailer@berkeley.edu"
+      url: "mailto:nsailer9@gmail.com"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/noah-sailer-babbab317"
@@ -85,7 +87,7 @@ footer:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:nsailer@berkeley.edu"
+      url: "mailto:nsailer9@gmail.com"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/noah-sailer-babbab317"
@@ -104,6 +106,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+      js: "custom"
+
+  # top-level files like index.md
+  - scope:
+      path: ""  # empty path means all files
+    values:
+      js: "custom"
 
 category_archive:
   type: liquid
