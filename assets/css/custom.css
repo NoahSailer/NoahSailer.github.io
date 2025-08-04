@@ -1,16 +1,16 @@
 body {
-  font-size: 18px; /* Adjust to your preferred size */
+  font-size: 18px;
 }
 
 h1 {
-  font-size: 2em; /* Example for headings */
+  font-size: 2em;
 }
 
 p {
-  font-size: 1em; /* Example for paragraph text */
+  font-size: 1em;
 }
 
-<style>
+/* Modal styling */
 .custom-modal {
   display: none;
   position: fixed;
@@ -44,4 +44,4 @@ p {
   cursor: pointer;
   text-decoration: underline;
 }
-</style>
+
