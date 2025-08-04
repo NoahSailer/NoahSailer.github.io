@@ -10,7 +10,11 @@ p {
   font-size: 1em;
 }
 
-/* Modal styling */
+.site-nav {
+  z-index: 10 !important;
+  position: relative;
+}
+
 .custom-modal {
   display: none;
   position: fixed;
@@ -22,17 +26,17 @@ p {
 }
 
 .custom-modal-content {
-  background-color: #fff;
+  background-color: #282c34;
   margin: 10% auto;
   padding: 20px;
   border-radius: 10px;
-  width: 60%;
+  width: 80%;
   max-width: 500px;
   box-shadow: 0 0 15px rgba(0,0,0,0.3);
 }
 
 .custom-close {
-  color: #aaa;
+  color: #9e2824;
   float: right;
   font-size: 24px;
   font-weight: bold;
@@ -40,8 +44,12 @@ p {
 }
 
 .popup-trigger {
-  color: #ff0080; /* pink */
+  color: #cbe0f5;
   cursor: pointer;
-  text-decoration: underline;
+  text-decoration: None;
 }
 
+.popup-trigger:hover {
+  color: #cbe0f5;
+  text-decoration: none;
+}
