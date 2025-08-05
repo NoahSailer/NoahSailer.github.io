@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Noah Sailer"
   avatar : "/assets/images/me.jpg"
-  bio    : "Cosmologist, Postdoc @ Stanford / Cambridge"
+  bio    : "Cosmologist<br>Postdoc @ Stanford / Cambridge"
   links:
     - label: "San Fransisco, CA"
       url: "#"
