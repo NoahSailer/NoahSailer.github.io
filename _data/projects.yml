@@ -1,10 +1,10 @@
 - title: Where's the matter?
   image: /assets/images/profile_bias.png
   description: >
-     The impact of non-gravitational physics on the "small-scale" matter distribution is a key source of systematic 
-     uncertainty when extracting cosmological information from high-resolution surveys. These works explore data-driven 
-     approaches to better understand the highly-energetic processes responsible for the "redistribution" of matter 
-     surrounding galaxies.
+     The impact of non-gravitational physics on the "small-scale" (a little larger than a galaxy) matter distribution is 
+     a key source of systematic uncertainty when extracting cosmological information from high-resolution surveys. These 
+     works explore data-driven approaches to better understand the highly-energetic processes responsible for the 
+     redistribution of matter within and around galaxies.
   papers:
     - [2507.14136,"Missing baryons recovered: a measurement of the gas fraction in galaxies and groups with the kinematic Sunyaev-Zel'dovich effect and CMB lensing"]
     - [2506.17379,"Mapping the gas density with the kinematic Sunyaev-Zel'dovich and patchy screening effects: a self-consistent comparison"]
@@ -13,9 +13,10 @@
 - title: Evolving dark energy or ...?
   image: /assets/images/disputauble.png
   description: >
-     Recent BAO measurements from DESI show mild (2.2σ) tension with CMB data when analyzed assuming our "standard model 
-     of cosmology" (ΛCDM), suggesting a ≃3σ preference for evolving dark energy. The significance of this preference 
-     is sensitive to the optical depth to reionization (τ) and can alternatively be phrased as a ≃3-5σ "τ tension."
+     Recent measurements from <a href="https://www.desi.lbl.gov/" style="color: #cbe0f5; text-decoration: none">DESI</a> 
+     show mild (2.2σ) tension with CMB data when analyzed assuming our "standard model of cosmology" (ΛCDM), suggesting 
+     a ≃3σ preference for evolving dark energy. The significance of this preference is sensitive to the optical depth to 
+     reionization (τ) and can alternatively be phrased as a ≃3-5σ "τ tension."
   papers: 
     - [2504.16932,"Dispuτable: the high cost of a low optical depth"]
 
@@ -61,7 +62,7 @@
 - title: Cleaning up CMB lensing measurements
   image: /assets/images/lens_cleaner.png
   description: >
-     Improving our ability to remove biases in CMB lensing measurements from extragalactic 
+     We improve our ability to remove biases in CMB lensing measurements from extragalactic 
      foregrounds. These methods were adopted in the latest
      <a href="https://arxiv.org/abs/2304.05202" style="color: #cbe0f5; text-decoration: none">ACT DR6 lensing analysis</a>.
   papers:
