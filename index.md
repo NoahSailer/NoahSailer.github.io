@@ -12,7 +12,9 @@ I was previously a Ph.D. student at UC Berkeley, advised by <a href="https://w.a
 Before moving to the best coast, I studied physics and math at <a href="https://www.cornell.edu/" style="color: #cbe0f5; text-decoration: none">Cornell University</a>. During that time I experimented with being an experimentalist in <a href="https://www.classe.cornell.edu/~mdn49/" style="color: #cbe0f5; text-decoration: none">Michael Niemack</a>'s group, where I was primarily advised by <a href="https://evevavagiakis.com/" style="color: #cbe0f5; text-decoration: none">Eve Vavagiakis</a>.
 
 I grew up in (western) Virginia with zero interest in physics or astronomy[^2] until my senior year of high school, when I took my first physics class. 
-In my free time I enjoy playing in the ocean, lounging with <a href="#" class="popup-trigger" data-target="modal-mrmay">Mr. May</a>, <a href="#" class="popup-trigger" data-target="modal-backpacking">backpacking</a>, consuming music of all form(at)s, and scouring the streets of San Francisco for the perfect <a href="#" class="popup-trigger" data-target="modal-sammy">breakfast sandwich</a>.
+In my free time I enjoy playing in the ocean, lounging with <a class="popup-trigger" data-target="modal-mrmay">Mr. May</a>, 
+<a class="popup-trigger" data-target="modal-backpacking">backpacking</a>, consuming music of all form(at)s, 
+and scouring the streets of San Francisco for the perfect <a class="popup-trigger" data-target="modal-sammy">breakfast sandwich</a>.
 
 [^1]:or (theoretically) thinking about how one would analyze the data in a ~~hopefully sane~~ robust way
-[^2]:but plenty of interest in <a href="#" class="popup-trigger" data-target="modal-dirtbike">dirt bikes</a> and <a href="#" class="popup-trigger" data-target="modal-harry">reptiles</a>
+[^2]:but plenty of interest in <a class="popup-trigger" data-target="modal-dirtbike">dirt bikes</a> and <a class="popup-trigger" data-target="modal-harry">reptiles</a>
