@@ -16,5 +16,3 @@ In my free time I enjoy playing in the ocean, lounging with <a href="#" class="p
 
 [^1]:or (theoretically) thinking about how one would analyze the data in a ~~hopefully sane~~ robust way
 [^2]:but plenty of interest in <a href="#" class="popup-trigger" data-target="modal-dirtbike">dirt bikes</a> and <a href="#" class="popup-trigger" data-target="modal-harry">reptiles</a>
-
-{% include modal.html %}
