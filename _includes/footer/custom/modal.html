@@ -1,0 +1,61 @@
+<!-- Modal overlay container -->
+<div id="modal-mrmay" class="custom-modal">
+  <div class="custom-modal-content">
+    <span class="custom-close" data-target="modal-mrmay">&times;</span>
+    <p>Content about Mr. May goes here.</p>
+  </div>
+</div>
+
+<div id="modal-backpacking" class="custom-modal">
+  <div class="custom-modal-content">
+    <span class="custom-close" data-target="modal-backpacking">&times;</span>
+    <p>Content about backpacking goes here.</p>
+  </div>
+</div>
+
+<div id="modal-sammy" class="custom-modal">
+  <div class="custom-modal-content">
+    <span class="custom-close" data-target="modal-sammy">&times;</span>
+    <p>Content about breakfast sandwiches goes here.</p>
+  </div>
+</div>
+
+<div id="modal-dirtbike" class="custom-modal">
+  <div class="custom-modal-content">
+    <span class="custom-close" data-target="modal-dirtbike">&times;</span>
+    <p>Content about dirt bikes goes here.</p>
+  </div>
+</div>
+
+<div id="modal-harry" class="custom-modal">
+  <div class="custom-modal-content">
+    <span class="custom-close" data-target="modal-harry">&times;</span>
+    <p>Content about reptiles goes here.</p>
+  </div>
+</div>
+
+<script>
+  // Open modal
+  document.querySelectorAll('.popup-trigger').forEach(trigger => {
+    trigger.addEventListener('click', function(e) {
+      e.preventDefault();
+      const modalId = this.getAttribute('data-target');
+      document.getElementById(modalId).style.display = 'block';
+    });
+  });
+
+  // Close modal
+  document.querySelectorAll('.custom-close').forEach(closeBtn => {
+    closeBtn.addEventListener('click', function() {
+      const modalId = this.getAttribute('data-target');
+      document.getElementById(modalId).style.display = 'none';
+    });
+  });
+
+  // Close modal on overlay click
+  document.querySelectorAll('.custom-modal').forEach(modal => {
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) modal.style.display = 'none';
+    });
+  });
+</script>
