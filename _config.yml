@@ -97,8 +97,7 @@ footer:
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-5333-8983"
-
-footer_custom: modal
+  custom: modal
 
 defaults:
   # _pages
