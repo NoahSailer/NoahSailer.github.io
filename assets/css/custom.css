@@ -10,35 +10,31 @@ p {
   font-size: 1em;
 }
 
-/* Overlay for the modal */
-.custom-modal {
-  display: none;              /* hidden by default */
-  position: fixed;
-  z-index: 9999;              /* very high */
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.5); /* dims everything */
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.masthead {
+  z-index: 10 !important;
+  position: relative;
 }
 
-/* Modal content */
+.custom-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
 .custom-modal-content {
   background-color: #282c34;
+  margin: 10% auto;
   padding: 20px;
   border-radius: 10px;
   width: 80%;
   max-width: 500px;
   box-shadow: 0 0 15px rgba(0,0,0,0.3);
-  position: relative;
-  z-index: 10000;  /* above overlay */
-  margin: 0;
 }
 
-/* Close button */
 .custom-close {
   color: #9e2824;
   float: right;
@@ -47,22 +43,10 @@ p {
   cursor: pointer;
 }
 
-/* Trigger link/button */
 .popup-trigger {
   color: #cbe0f5;
   cursor: pointer;
-  text-decoration: none;
-}
-
-/* Ensure masthead doesn’t create a stacking context above modal */
-.masthead {
-  position: relative; /* fine */
-  z-index: 10;        /* stays below overlay */
-}
-
-/* OPTIONAL: prevent other parent stacking issues */
-body > .custom-modal {
-  position: fixed;    /* force overlay above everything */
+  text-decoration: None;
 }
 
 .popup-trigger:hover {
