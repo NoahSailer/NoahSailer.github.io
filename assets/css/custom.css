@@ -53,3 +53,9 @@ p {
   color: #cbe0f5;
   text-decoration: none;
 }
+
+/* Force masthead and nav below modal overlay */
+.masthead, 
+.masthead * {
+  z-index: 0 !important;
+}
