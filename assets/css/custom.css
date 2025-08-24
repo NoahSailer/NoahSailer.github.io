@@ -58,22 +58,22 @@ p {
   text-decoration: none;
 }
 
-/* Main content column tighter margins */
+/* Make main content wider and reduce side margins */
 .page__content {
-  max-width: 900px;  /* reduce width */
+  max-width: 1200px; /* wider than the default (~800px) */
   margin: 0 auto;
-  padding: 1rem;     /* less padding inside */
-  margin-bottom: 1rem; /* reduce gap before footer */
+  padding: 0.5rem;   /* less inner padding */
+  margin-bottom: 0.5rem; /* tighter gap before footer */
 }
 
 /* Footer more compact */
 .page__footer {
-  padding: 0.5rem 0;   /* shrink vertical padding */
-  font-size: 0.85em;   /* optional: slightly smaller text */
+  padding: 0.25rem 0;   /* smaller vertical padding */
+  font-size: 0.85em;    /* optional: slightly smaller text */
 }
 
 /* Footer sections closer together */
 .page__footer .page__footer-follow,
 .page__footer .page__footer-copyright {
-  margin: 0.25rem 0;
+  margin: 0.1rem 0;
 }
