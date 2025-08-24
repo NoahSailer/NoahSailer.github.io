@@ -57,3 +57,23 @@ p {
   color: #cbe0f5;
   text-decoration: none;
 }
+
+/* Main content column tighter margins */
+.page__content {
+  max-width: 900px;  /* reduce width */
+  margin: 0 auto;
+  padding: 1rem;     /* less padding inside */
+  margin-bottom: 1rem; /* reduce gap before footer */
+}
+
+/* Footer more compact */
+.page__footer {
+  padding: 0.5rem 0;   /* shrink vertical padding */
+  font-size: 0.85em;   /* optional: slightly smaller text */
+}
+
+/* Footer sections closer together */
+.page__footer .page__footer-follow,
+.page__footer .page__footer-copyright {
+  margin: 0.25rem 0;
+}
